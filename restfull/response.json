@@ -1,0 +1,33 @@
+En resumen, REST es un estilo arquitectónico que establece principios y restricciones para diseñar sistemas web eficientes y escalables, mientras que RESTful se refiere a la implementación práctica de una API que sigue estos principios y convenciones.
+
+Una API RESTful sigue las prácticas de REST, como el uso de URIs, métodos HTTP y representaciones de recursos, y permite a los clientes interactuar con la API de manera predecible y coherente.
+
+Una API RESTful debe seguir el principio de "HATEOAS":
+HATEOAS (Hypermedia as the Engine of Application State) es un principio clave en el diseño de APIs RESTful que se refiere a la inclusión de enlaces de hipertexto (hipermedia) en las respuestas de la API. Estos enlaces permiten a los clientes navegar y descubrir los recursos disponibles y las acciones que pueden realizar sobre esos recursos.
+
+{
+    "id": "123",
+    "title": "El nombre del viento",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasía",
+    "published": "2007",
+    "links": [
+      {
+        "rel": "self",
+        "href": "/books/123"
+      },
+      {
+        "rel": "author",
+        "href": "/authors/Patrick Rothfuss"
+      },
+      {
+        "rel": "related",
+        "href": "/books/123/reviews"
+      },
+      {
+        "rel": "related",
+        "href": "/books/123/comments"
+      }
+    ]
+  }
+  

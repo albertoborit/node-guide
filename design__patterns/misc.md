@@ -1,0 +1,5 @@
+#### Patrón Builder:
+El patrón Builder se utiliza cuando necesitas construir objetos complejos paso a paso, con múltiples opciones de configuración. Permite separar la lógica de construcción de la representación final del objeto, lo que hace que el proceso de construcción sea más flexible y legible. El patrón Builder generalmente se utiliza cuando un objeto tiene muchas propiedades configurables y cuando queremos proporcionar una API más sencilla y expresiva para la creación de objetos.
+
+#### Patrón Factory:
+El patrón Factory, también conocido como Factory Method, se utiliza cuando necesitas crear objetos de una clase concreta, pero deseas ocultar los detalles de creación en una clase separada. La idea principal es proporcionar una interfaz común para la creación de objetos, de manera que el cliente del código no tenga que preocuparse por cómo se crea exactamente el objeto. El patrón Factory se utiliza cuando la creación de objetos es compleja, requiere lógica condicional o debe ser abstracta.
