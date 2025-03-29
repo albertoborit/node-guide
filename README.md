@@ -1,4 +1,4 @@
-### 1\. **¿Qué es JavaScript y cómo se ejecuta?** [link](https://github.com/albertoborit/node-guide?tab=readme-ov-file#1-qu%C3%A9-es-javascript-y-c%C3%B3mo-se-ejecuta).
+### 1\. **¿Qué es JavaScript y cómo se ejecuta?** [link](https://github.com/albertoborit/node-guide/tree/main/1.%20que-es-JS).
 ### 2\. **¿Cuál es la diferencia entre `var`, `let` y `const`?** [link](https://github.com/albertoborit/node-guide/tree/main/2.%20var-let-const)
 ### 3\. **¿Qué es el hoisting en JavaScript?** [link](https://github.com/albertoborit/node-guide/tree/main/3.%20hoisting)
 ### 4\. **¿Qué es un closure en JavaScript?** [link](https://github.com/albertoborit/node-guide/tree/main/4.%20closures)
