@@ -4,3 +4,4 @@
 ### 4\. **¿Qué es un closure en JavaScript?**
 ### 5\. **¿Qué son las funciones de orden superior?**
 ### 6\. **¿Cómo funciona el `this` en JavaScript?**
+### 7\. **¿Cuál es la diferencia entre una función tradicional y una arrow function?**
