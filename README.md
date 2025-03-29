@@ -1,10 +1,10 @@
-### 1\. **¿Qué es JavaScript y cómo se ejecuta?**
-### 2\. **¿Cuál es la diferencia entre `var`, `let` y `const`?**
-### 3\. **¿Qué es el hoisting en JavaScript?**
-### 4\. **¿Qué es un closure en JavaScript?**
-### 5\. **¿Qué son las funciones de orden superior?**
-### 6\. **¿Cómo funciona el `this` en JavaScript?**
-### 7\. **¿Cuál es la diferencia entre una función tradicional y una arrow function?**
-### 8\. **¿Qué son las promesas en JavaScript?**
-### 9\. ¿Qué es async/await y cómo se usa?
-### 10\. ¿Qué es el event loop en JavaScript?
+### 1\. **¿Qué es JavaScript y cómo se ejecuta?** [link](https://github.com/albertoborit/node-guide?tab=readme-ov-file#1-qu%C3%A9-es-javascript-y-c%C3%B3mo-se-ejecuta).
+### 2\. **¿Cuál es la diferencia entre `var`, `let` y `const`?** [link](https://github.com/albertoborit/node-guide/tree/main/2.%20var-let-const)
+### 3\. **¿Qué es el hoisting en JavaScript?** [link](https://github.com/albertoborit/node-guide/tree/main/3.%20hoisting)
+### 4\. **¿Qué es un closure en JavaScript?** [link](https://github.com/albertoborit/node-guide/tree/main/4.%20closures)
+### 5\. **¿Qué son las funciones de orden superior?** [link](https://github.com/albertoborit/node-guide/tree/main/5.%20first-class-functions)
+### 6\. **¿Cómo funciona el `this` en JavaScript?** [link](https://github.com/albertoborit/node-guide/tree/main/6.%20this)
+### 7\. **¿Cuál es la diferencia entre una función tradicional y una arrow function?** [link](https://github.com/albertoborit/node-guide/tree/main/7.%20arrow-functions-vs-traditional-functions)
+### 8\. **¿Qué son las promesas en JavaScript?** [link](https://github.com/albertoborit/node-guide/tree/main/8.%20promises)
+### 9\. **¿Qué es async/await y cómo se usa?** [link](https://github.com/albertoborit/node-guide/tree/main/9.%20async-await)
+### 10\. **¿Qué es el event loop en JavaScript?** [link](https://github.com/albertoborit/node-guide/tree/main/10.%20event-loop)
