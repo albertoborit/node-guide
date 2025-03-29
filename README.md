@@ -3,3 +3,4 @@
 ### 3\. **¿Qué es el hoisting en JavaScript?**
 ### 4\. **¿Qué es un closure en JavaScript?**
 ### 5\. **¿Qué son las funciones de orden superior?**
+### 6\. **¿Cómo funciona el `this` en JavaScript?**
