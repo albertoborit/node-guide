@@ -7,3 +7,4 @@
 ### 7\. **¿Cuál es la diferencia entre una función tradicional y una arrow function?**
 ### 8\. **¿Qué son las promesas en JavaScript?**
 ### 9\. ¿Qué es async/await y cómo se usa?
+### 10\. ¿Qué es el event loop en JavaScript?
